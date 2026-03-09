@@ -50,7 +50,7 @@ Here’s what it looks like 👇
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/DevByFahad/todo-app.git
 ```
 
 2. Navigate to the project folder
@@ -68,7 +68,7 @@ cd todo-app
 If deployed, add your live link here:
 
 ```
-https://your-live-demo-link.com
+https://DevByFahad-link.com
 ```
 
 ---
