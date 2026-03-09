@@ -37,10 +37,9 @@ todo-app/
 ---
 
 ## 📸 Screenshots
+Here’s what it looks like 👇
 
 
-
-```
 ![Todo App Screenshot](Screenshot.png)
 ```
 
