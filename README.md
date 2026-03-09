@@ -1,5 +1,7 @@
 # 📝 Todo App
 
+🔗 **Live Demo:** https://DevByFahad-link.com
+
 A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript** that helps users manage their daily tasks efficiently. The app allows users to add, complete, and delete tasks through an intuitive and user-friendly interface.
 
 ---
@@ -23,6 +25,14 @@ A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript** t
 
 ---
 
+## 📸 Screenshots
+
+Here’s what the app looks like 👇
+
+![Todo App Screenshot](Screenshot.png)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -32,15 +42,6 @@ todo-app/
 ├── style.css
 ├── script.js
 └── README.md
-```
-
----
-
-## 📸 Screenshots
-Here’s what it looks like 👇
-
-
-![Todo App Screenshot](Screenshot.png)
 ```
 
 ---
@@ -60,16 +61,6 @@ cd todo-app
 ```
 
 3. Open `index.html` in your browser.
-
----
-
-## 🌐 Live Demo
-
-If deployed, add your live link here:
-
-```
-https://DevByFahad-link.com
-```
 
 ---
 
