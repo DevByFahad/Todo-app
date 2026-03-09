@@ -1,6 +1,6 @@
 # 📝 Todo App
 
-🔗 **Live Demo:** [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://devbyfahad.github.io/todo-app/)
+🔗 **Live Demo:** https://devbyfahad.github.io/todo-app/
 
 A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript** that helps users manage their daily tasks efficiently. The app allows users to add, complete, and delete tasks through an intuitive and user-friendly interface.
 
