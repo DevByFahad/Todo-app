@@ -4,7 +4,8 @@ A simple and responsive **Todo App** that allows users to manage their daily tas
 
 ---
 
-🔗 **Live Demo:** https://DevByFahad.github.io/todo-app/
+🔗 **Live Demo:**  https://devbyfahad.github.io/Todo-app/
+
 
 ---
 
