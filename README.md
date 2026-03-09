@@ -41,7 +41,7 @@ todo-app/
 
 
 ```
-![Todo App Screenshot](screenshot.png)
+![Todo App Screenshot](Screenshot.png)
 ```
 
 ---
