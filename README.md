@@ -1,52 +1,33 @@
 # 📝 Todo App
 
-🔗 **Live Demo:** https://devbyfahad.github.io/todo-app/
-
-A simple and responsive **Todo App** built using **HTML, CSS, and JavaScript** that helps users manage their daily tasks efficiently. The app allows users to add, complete, and delete tasks through an intuitive and user-friendly interface.
+A simple and responsive **Todo App** that allows users to manage their daily tasks efficiently. Users can add, complete, and delete tasks easily through a clean and intuitive interface. This project is built using **HTML, CSS, and JavaScript** and demonstrates fundamental front-end development skills.
 
 ---
 
-## 🚀 Features
-
-- ➕ Add new tasks
-- ✅ Mark tasks as completed
-- 🗑️ Delete tasks
-- 📱 Responsive design
-- ⚡ Fast and lightweight
-- 🎯 Built with vanilla JavaScript (no frameworks)
+🔗 **Live Demo:** https://DevByFahad.github.io/todo-app/
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Features
 
-- **HTML5** – Structure of the application  
-- **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Functionality and DOM manipulation  
-
----
-
-## 📸 Screenshots
-
-Here’s what the app looks like 👇
-
-![Todo App Screenshot](Screenshot.png)
+* ➕ Add new tasks
+* ✅ Mark tasks as completed
+* 🗑️ Delete tasks
+* 📱 Responsive design
+* ⚡ Fast and lightweight
+* 🎯 Built with vanilla JavaScript
 
 ---
 
-## 📂 Project Structure
+## 🛠 Technologies Used
 
-```
-todo-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+* HTML
+* CSS
+* JavaScript
 
 ---
 
-## ⚙️ How to Run the Project
+## 🚀 How to Run the Project
 
 1. Clone the repository
 
@@ -60,31 +41,48 @@ git clone https://github.com/DevByFahad/todo-app.git
 cd todo-app
 ```
 
-3. Open `index.html` in your browser.
+3. Open the `index.html` file in your browser.
 
 ---
 
-## 🎯 Learning Purpose
+## 📂 Project Structure
 
-This project was built to practice:
-
-- JavaScript DOM manipulation
-- Event handling
-- Basic frontend development
-- Building interactive web applications
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork the repository and submit a pull request.
+```
+todo-app
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
 ---
 
-## 📄 License
+## 🎯 Purpose of the Project
 
-This project is open source and available under the **MIT License**.
+This project was created to practice and demonstrate fundamental web development concepts such as:
+
+* JavaScript DOM manipulation
+* Event handling
+* Building interactive web applications
+* Creating responsive user interfaces
 
 ---
 
-⭐ If you like this project, consider giving it a **star** on GitHub!
+## 👨‍💻 Author
+
+**Muhammad Fahad**
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, consider giving it a **star** on GitHub!
+
+---
+
+## 📸 Todo App
+
+Here’s what it looks like 👇
+
+![Todo App Screenshot](Screenshot.png)
